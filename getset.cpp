@@ -37,4 +37,8 @@ int main()
   Movie avengers("The Avengers","Joss Whedon","PG-13");
   cout << avengers.getRating();
   return 0;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> master
